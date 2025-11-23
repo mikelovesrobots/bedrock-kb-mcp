@@ -9,10 +9,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
+  "type": "module",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.22.0",
+    "@modelcontextprotocol/sdk": "^1.23.0-beta.0",
     "express": "^5.1.0",
     "zod": "^4.1.12"
   },
